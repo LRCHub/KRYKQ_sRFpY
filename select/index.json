@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "リフレイン",
+  "base_artist": "荒井岳史",
+  "createdAt": "2025-12-10T04:12:38.827581Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "リフレイン",
+      "artist": "BiS",
+      "has_synced": true,
+      "path": "select/01_リフレイン_BiS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "リフレイン",
+      "artist": "Yurie Kokubu",
+      "has_synced": true,
+      "path": "select/02_リフレイン_Yurie_Kokubu.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "リフレイン",
+      "artist": "Kokubu, Yurie",
+      "has_synced": true,
+      "path": "select/03_リフレイン_Kokubu,_Yurie.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "リフレイン",
+      "artist": "sumika",
+      "has_synced": true,
+      "path": "select/04_リフレイン_sumika.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "リフレイン",
+      "artist": "moumoon",
+      "has_synced": true,
+      "path": "select/05_リフレイン_moumoon.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "リフレイン",
+      "artist": "藤川千愛",
+      "has_synced": true,
+      "path": "select/06_リフレイン_藤川千愛.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "リフレイン",
+      "artist": "嵐",
+      "has_synced": true,
+      "path": "select/07_リフレイン_嵐.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "As Time Goes By (リフレイン)",
+      "artist": "女性シンガー",
+      "has_synced": true,
+      "path": "select/08_As_Time_Goes_By_(リフレイン)_女性シンガー.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "リフレイン",
+      "artist": "榊原ゆい",
+      "has_synced": false,
+      "path": "select/09_リフレイン_榊原ゆい.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "リフレイン",
+      "artist": "ラックライフ",
+      "has_synced": true,
+      "path": "select/10_リフレイン_ラックライフ.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "As Time Goes By (リフレイン) (M11B)",
+      "artist": "女性シンガー(CV.高山みなみ)",
+      "has_synced": true,
+      "path": "select/11_As_Time_Goes_By_(リフレイン)_(M11B)_女性シンガー(CV.高山みなみ).lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "リフレイン リフレイン",
+      "artist": "GO!GO!7188",
+      "has_synced": true,
+      "path": "select/12_リフレイン_リフレイン_GO!GO!7188.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "リフレイン",
+      "artist": "Arashi",
+      "has_synced": true,
+      "path": "select/13_リフレイン_Arashi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "リフレイン",
+      "artist": "荒井岳史",
+      "has_synced": false,
+      "path": "select/pl_01_リフレイン_荒井岳史.txt"
+    }
+  ]
+}
